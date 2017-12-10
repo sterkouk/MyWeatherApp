@@ -1,0 +1,71 @@
+﻿<Page x:ConnectionId='1'
+    x:Class="MyWeatherApp.CityFutureWeather"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MyWeatherApp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:data="using:MyWeatherApp.Models"
+    mc:Ignorable="d">
+
+    <Grid Background="Blue">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Frame x:ConnectionId='2' Name="MyFrame"></Frame>
+
+
+       
+            <RelativePanel>
+                <Button x:ConnectionId='3' Name="HomeButton" FontFamily="Segoe MDL2 Assets" Content="&#xE80F;"                          Grid.Row="0" Margin="5,0,0,0" />
+                <TextBlock FontSize="16" Text="Home Page" RelativePanel.RightOf="HomeButton" RelativePanel.AlignVerticalCenterWith="HomeButton" Margin="10,0,0,0"/>
+                <GridView x:ConnectionId='4' Name="MyGridView"
+                                                     
+                  Margin="5,5,0,20"
+                  RelativePanel.Below="HomeButton"
+                  RelativePanel.AlignVerticalCenterWithPanel="True"
+                  RelativePanel.AlignHorizontalCenterWithPanel="True">
+                    <GridView.ItemTemplate>
+                        <DataTemplate                              >
+                        <UserControl x:ConnectionId='5'>
+                            <Grid Name="MyGridTemplate" >
+                                <VisualStateManager.VisualStateGroups>
+                                    <VisualStateGroup x:Name="VisualStateGroup">
+                                        <VisualState x:Name="Wide">
+                                            <VisualState.StateTriggers>
+                                                <AdaptiveTrigger MinWindowWidth="800" />
+                                            </VisualState.StateTriggers>
+                                            <VisualState.Setters>
+                                                <Setter Target="MoreResultImage.(Height)" Value="200"/>
+                                                <Setter Target="MoreResultImage.(Width)" Value="200"/>
+                                                <Setter Target="Collection.(RelativePanel.AlignHorizontalCenterWithPanel)" Value="True" />
+                                                <!--<Setter Target="MoreResultImage.(RelativePanel.RelativePanel.AlignLeftWithPanel)" Value="True" />-->
+                                            </VisualState.Setters>
+
+
+                                        </VisualState>
+                                    </VisualStateGroup>
+                                </VisualStateManager.VisualStateGroups>
+                                <RelativePanel Name="MyPanel">
+                                    <Image x:ConnectionId='6' Name="MoreResultImage"  Width="100" Height="100"                        RelativePanel.AlignHorizontalCenterWithPanel="True"/>
+                                    <StackPanel Name="Collection" RelativePanel.Below="MoreResultImage">
+                                        <TextBlock FontSize="16" Name="Temperature_Text" Text="Temperature is:" RelativePanel.Below="MoreResultImage"/>
+                                        <TextBlock x:ConnectionId='7' FontSize="16" Name="TemperatureTextBlock"                             RelativePanel.RightOf="Temperature_Text"  Margin="0,0,0,0"/>
+                                        <TextBlock FontSize="16" Name="Description_Text" Text="Description:"  RelativePanel.Below="Temperature_Text" />
+                                        <TextBlock x:ConnectionId='8' FontSize="16" Name="DescriptionTextBlock"                             RelativePanel.RightOf="Description_Text" RelativePanel.Below="Temperature_Text" Margin="0,0,0,0"/>
+                                        <TextBlock FontSize="16" Name="Time_Text" Text="Time:"  RelativePanel.Below="Description_Text" />
+                                        <TextBlock x:ConnectionId='9' FontSize="16" Name="TimeTextBlock"                      RelativePanel.RightOf="Time_Text" RelativePanel.Below="Description_Text"  Margin="0,0,0,0"/>
+                                    </StackPanel>
+                                </RelativePanel>
+                            </Grid>
+                            </UserControl>
+                        </DataTemplate>
+                    </GridView.ItemTemplate>
+
+                </GridView>
+
+            </RelativePanel>
+       
+    </Grid>
+</Page>
+

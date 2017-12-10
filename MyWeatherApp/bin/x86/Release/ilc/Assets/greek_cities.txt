@@ -1,0 +1,483 @@
+Zakynthos
+Khalandrion
+Galatsi
+Megara
+Elefsina
+Melissia
+Mandra
+Erythres
+Vasilikon
+Agrinio
+Larisa
+Kozani
+Agia Trias
+Kalamaria
+Chortiatis
+Thessaloniki
+Nea Ionia
+Nigrita
+Kavala
+Serres
+Komotini
+Xanthi
+Orestiada
+Chios
+Aigio
+Ovria
+Acharnes
+Kerkyra
+Peristeri
+Asprovalta
+Veroia
+Volos	
+Edessa
+Ymittos Athens
+Preveza
+Alexandroupoli
+Pallini
+Trikala
+Kallithea
+Patra
+Chania
+Ioannina
+Lamia
+Korinthos
+Kalamata
+Aigaleo
+Rodos
+Kalymnos
+Tripoli
+Arta
+Pyrgos
+Pylos	
+Kastoria
+Katerini
+Drama
+Kalampaka
+Polygyros
+Karditsa
+Amfissa
+Sparti
+Nikaia
+Rethymno
+Florina
+Grevena
+Thivai
+Chalkida
+Giannitsa
+Mytilini
+Malia
+Kilkis
+Pella
+Ptolemaida
+Paros
+Ierapetra
+Siteia
+Karpenisi
+Deskati
+Kos
+Astros
+Loutraki
+Naxos
+Eretria
+Megalopoli
+Tinos
+Nemea
+Nafplio
+Poros
+Goumenissa
+Gargalianoi
+Karystos
+Lixourion
+Argos Orestiko
+Vonitsa
+Ormilia
+Didymoteicho
+Vathy
+Livadeia
+Filiatra
+Nafpaktos
+Voula
+Vyronas
+Salamis
+Piraeus
+Petroupolis
+Perama
+Palaio Faliro
+Nea Smyrni
+Ilion
+Nea Ionia
+Nea Filadelfeia
+Nea Erythraia
+Moskhaton
+Koropi
+Kifisia
+Cholargos
+Keratsini
+Alimos
+Kaisariani
+Irakleio
+Irakleion
+Elliniko
+Agia Varvara
+Agia Paraskevi
+Athens
+Aspropyrgos
+Argos
+Ano Liosia
+Marousi
+Amaliada
+Sykies
+Polichni
+Pylaia
+Peraia
+Panorama
+Oraiokastro
+Naousa
+Menemeni
+Vrilissia
+Alimos
+Mesolongi
+Marousi
+Lefkada
+Skiathos
+Antimacheia
+Spata
+Zaros
+Zacharo
+Zagora
+Gytheio
+Yimnon
+Yiannouli
+Xylokastron
+Vrontados
+Vrachnaiika
+Vrakhation
+Vouliagmeni
+Vlakhiotis
+Vilia
+Velo
+Velestino
+Vagia
+Vathi
+Vartholomio
+Vari
+Varda
+Tsaritsani
+Trianta
+Traganon
+Tolon
+Tyrnavos
+Tympaki
+Fira
+Thermo
+Stylida
+Stefanavikion
+Stamata
+Spetses
+Spercheiada
+Sourpi
+Souda
+Skopelos
+Skhisma
+Schimatari
+Skala
+Symi
+Sykourion
+Selinia
+Rio
+Rafina
+Psychiko
+Psachna
+Porto Cheli
+Polichnitos
+Plomarion
+Pylion
+Peta
+Periyialion
+Perivolia
+Perama
+Pedini
+Parga
+Paramythia
+Paralia
+Panaitolion
+Palamas
+Palairos
+Palaiochora
+Palaia Fokaia
+Paiania
+Orchomenos
+Oinofyta
+Oikismos Papagou
+Nikaia
+Nerokouros
+Neon Karlovasion
+Oichalia
+Neochorion
+Neochorion
+Neapoli
+Nea Peramos
+Nea Palatia
+Nea Manolas
+Nea Makri
+Nea Kios
+Nea Artaki
+Nea Ankhialos
+Naousa
+Mouzaki
+Mourniai
+Molos
+Molaoi
+Moires
+Mytilinioi
+Myrina
+Mykonos
+Metsovo
+Messini
+Mesolongi
+Megala Kalyvia
+Martinon
+Markopoulo Oropou
+Markopoulo
+Marathona
+Malesina
+Makrisia
+Makrakomi
+Magoula
+Louros
+Livanatai
+Limni
+Limin Khersonisou
+Lykovrysi
+Ligourion
+Lefkimmi
+Lepenou
+Leonidio
+Lekhaion
+Lechaina
+Lavrio
+Lakkion
+Krouson
+Kryoneri
+Krestena
+Kranidi
+Kranea Elassonos
+Kompoti
+Kissamos
+Kyriaki
+Kipseli
+Kyparissia
+Kineta
+Kymi
+Kiato
+Khora
+Khalkoutsion
+Keratea
+Kefalos
+Katsikas
+Katouna
+Kato Tithorea
+Kato Achaia
+Karpathos
+Karditsomagoula
+Kardamaina
+Kapandriti
+Kanalaki
+Kamena Vourla
+Kalyvia Thorikou
+Kalamos
+Kainouryion
+Itea
+Istiaia
+Gouvai
+Gonnoi
+Gazi
+Gastouni
+Galatas	
+Galatas
+Filippiada
+Filiates
+Fyli
+Farsala
+Falanna
+Ermoupolis
+Ermioni
+Epitalion
+Ano Arhanes
+Emporeio
+Eleousa
+Elateia
+Elassona
+Ekali
+Delphi
+Dharatsos
+Ayios Yeoryios
+Agios Stefanos
+Ayios Nikolaos
+Agios Nikolaos
+Agios Kirykos
+Agia Varvara
+Agiasos
+Agia Paraskevi
+Ayia Marina
+Agia Marina
+Agia
+Athikia
+Atalanti
+Astakos
+Assos
+Arkalochori
+Aria
+Argostolion
+Arachova
+Anogeia
+Anoixi
+Andravida
+Anavyssos
+Anatoli
+Amfilochia
+Amfikleia
+Ambelon
+Ampelakia
+Amarynthos
+Almyros
+Aliveri
+Aliartos
+Aigina
+Aitoliko
+Aianteion
+Agria
+Nea Alikarnassos
+Kremasti
+Afantou
+Archangelos
+Ziparion
+Genissea
+Gefyra
+Xiropotamos
+Vrontou
+Velventos
+Vathylakkos
+Vasilika
+Trilofon
+Tychero
+Thermi
+Thasos
+Terpni
+Svoronos
+Soufli
+Sokhos
+Skoutar
+Skydra
+Leptokarya
+Sindos
+Sikia
+Sidirokastro
+Siatista
+Servia
+Sapes
+Pefka
+Prosotsani
+Polykastro
+Plagiarion
+Platy
+Pyrgos
+Petroussa
+Peristasis
+Pentalofos
+Nikisiani
+Neos Skopos
+Neos Mylotopos
+Neos Marmaras
+Neon Soulion
+Neon Rysion
+Neon Petritsion
+Neoi Epivaton
+Nea Zichni
+Nea Vissa
+Nea Triglia
+Nea Peramos
+Nea Michaniona
+Nea Mesimvria
+Nea Malgara
+Nea Magnisia
+Nea Karvali
+Nea Kallikratia
+Nea Iraklia
+Nea Fokaia
+Nea Efesos
+Nea Apollonia
+Melissochorion
+Meliki
+Megali Panayia
+Maniakoi
+Makrochorion
+Makrygialos
+Livadion
+Litochoro
+Liti
+Limenaria
+Lagyna
+Lagkadas
+Krokos
+Krya Vrysi
+Koufalia
+Korinos
+Kopanos
+Konitsa
+Kontariotissa
+Kolchikon
+Kolindros
+Kokkinokhoma
+Kimmeria
+Kymina
+Chrysoupolis
+Chryso
+Khoristi
+Chalkidon
+Kavallari
+Kato Skholarion
+Karitsa
+Karyotissa
+Kalochorion
+Kallithea
+Kalampaki
+Iasmos
+Galatista
+Galatini
+Galatades
+Filiro
+Feres
+Evropos
+Efkarpia
+Episkopi
+Epanomi
+Eleftheroupolis
+Ekhinos
+Drymos
+Ayios Nikolaos
+Ayios Athanasios
+Agios Athanasios
+Axioupoli
+Asvestochori
+Assiros
+Arnaia
+Aridaia
+Anatolikon
+Alistrati
+Alexandreia
+Aiginio
+Aiani
+Adendron
+Eirinoupoli
+Agios Pavlos
+Triandria
+Potamos
+Kanalion
+Faliraki
+Young Inn
+Potos (Thassos)	
+Agios Georgis
+Ymittos
+Makry Gialos

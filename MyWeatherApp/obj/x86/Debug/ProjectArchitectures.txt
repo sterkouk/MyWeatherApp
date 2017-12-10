@@ -1,0 +1,1 @@
+C:\Users\sterg_000\documents\visual studio 2017\Projects\MyWeatherApp\MyWeatherApp\MyWeatherApp.csproj;x86

@@ -1,0 +1,269 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JIMIS-PC</Machine>
+    <WindowsUser>sterg_000</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>418c7cdf-cb6f-44b9-b0f0-7eea8e1e379c</PackageIdentityName>
+    <PackageIdentityPublisher>CN=sterg_000</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\sterg_000\documents\visual studio 2017\Projects\MyWeatherApp\MyWeatherApp\obj\x86\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\sterg_000\documents\visual studio 2017\Projects\MyWeatherApp\MyWeatherApp\bin\x86\Release\AppX</LayoutDir>
+    <RegisteredManifestChecksum>6443E1F244007D434EE6950916621788E2AD79206A9CC9DFC92F1FF6A1199CB5</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>418c7cdf-cb6f-44b9-b0f0-7eea8e1e379c_1.0.0.0_x86__rgbszgv55v56r</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>418c7cdf-cb6f-44b9-b0f0-7eea8e1e379c_rgbszgv55v56r!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>418c7cdf-cb6f-44b9-b0f0-7eea8e1e379c</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=sterg_000</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\sterg_000\documents\visual studio 2017\Projects\MyWeatherApp\MyWeatherApp\bin\x86\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-10T11:47:51.734</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\sterg_000\documents\visual studio 2017\Projects\MyWeatherApp\MyWeatherApp\bin\x86\Release\ilc\Assets\greek_cities.txt">
+      <PackagePath>Assets\greek_cities.txt</PackagePath>
+      <Modified>2017-10-19T10:16:31.092</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sterg_000\documents\visual studio 2017\Projects\MyWeatherApp\MyWeatherApp\bin\x86\Release\ilc\Assets\LockScreenLogo.png">
+      <PackagePath>Assets\LockScreenLogo.png</PackagePath>
+      <Modified>2017-12-09T13:03:25.482</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sterg_000\documents\visual studio 2017\Projects\MyWeatherApp\MyWeatherApp\bin\x86\Release\ilc\Assets\LockScreenLogo_1.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo_1.scale-200.png</PackagePath>
+      <Modified>2017-08-17T16:23:35.527</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sterg_000\documents\visual studio 2017\Projects\MyWeatherApp\MyWeatherApp\bin\x86\Release\ilc\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-09T13:31:26.849</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sterg_000\documents\visual studio 2017\Projects\MyWeatherApp\MyWeatherApp\bin\x86\Release\ilc\Assets\SplashScreen_1.scale-200.png">
+      <PackagePath>Assets\SplashScreen_1.scale-200.png</PackagePath>
+      <Modified>2017-08-17T16:23:35.527</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sterg_000\documents\visual studio 2017\Projects\MyWeatherApp\MyWeatherApp\bin\x86\Release\ilc\Assets\Square150x150Logo.png">
+      <PackagePath>Assets\Square150x150Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-09T13:09:16.810</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sterg_000\documents\visual studio 2017\Projects\MyWeatherApp\MyWeatherApp\bin\x86\Release\ilc\Assets\Square150x150Logo_1.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo_1.scale-200.png</PackagePath>
+      <Modified>2017-08-17T16:23:35.527</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sterg_000\documents\visual studio 2017\Projects\MyWeatherApp\MyWeatherApp\bin\x86\Release\ilc\Assets\Square44x44Logo.png">
+      <PackagePath>Assets\Square44x44Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-09T13:16:42.826</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sterg_000\documents\visual studio 2017\Projects\MyWeatherApp\MyWeatherApp\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-08-17T16:23:35.527</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sterg_000\documents\visual studio 2017\Projects\MyWeatherApp\MyWeatherApp\bin\x86\Release\ilc\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-10T10:37:18.553</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sterg_000\documents\visual studio 2017\Projects\MyWeatherApp\MyWeatherApp\bin\x86\Release\ilc\Assets\StoreLogo_1.png">
+      <PackagePath>Assets\StoreLogo_1.png</PackagePath>
+      <Modified>2017-08-17T16:23:35.527</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sterg_000\documents\visual studio 2017\Projects\MyWeatherApp\MyWeatherApp\bin\x86\Release\ilc\Assets\Weather\01d.png">
+      <PackagePath>Assets\Weather\01d.png</PackagePath>
+      <Modified>2017-12-10T08:18:51.759</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sterg_000\documents\visual studio 2017\Projects\MyWeatherApp\MyWeatherApp\bin\x86\Release\ilc\Assets\Weather\01n.png">
+      <PackagePath>Assets\Weather\01n.png</PackagePath>
+      <Modified>2017-12-10T08:18:51.775</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sterg_000\documents\visual studio 2017\Projects\MyWeatherApp\MyWeatherApp\bin\x86\Release\ilc\Assets\Weather\02d.png">
+      <PackagePath>Assets\Weather\02d.png</PackagePath>
+      <Modified>2017-12-10T08:18:51.721</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sterg_000\documents\visual studio 2017\Projects\MyWeatherApp\MyWeatherApp\bin\x86\Release\ilc\Assets\Weather\02n.png">
+      <PackagePath>Assets\Weather\02n.png</PackagePath>
+      <Modified>2017-12-10T08:18:51.790</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sterg_000\documents\visual studio 2017\Projects\MyWeatherApp\MyWeatherApp\bin\x86\Release\ilc\Assets\Weather\03d.png">
+      <PackagePath>Assets\Weather\03d.png</PackagePath>
+      <Modified>2017-12-10T08:18:51.637</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sterg_000\documents\visual studio 2017\Projects\MyWeatherApp\MyWeatherApp\bin\x86\Release\ilc\Assets\Weather\03n.png">
+      <PackagePath>Assets\Weather\03n.png</PackagePath>
+      <Modified>2017-12-10T08:18:51.821</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sterg_000\documents\visual studio 2017\Projects\MyWeatherApp\MyWeatherApp\bin\x86\Release\ilc\Assets\Weather\04d.png">
+      <PackagePath>Assets\Weather\04d.png</PackagePath>
+      <Modified>2017-12-10T08:18:52.038</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sterg_000\documents\visual studio 2017\Projects\MyWeatherApp\MyWeatherApp\bin\x86\Release\ilc\Assets\Weather\04n.png">
+      <PackagePath>Assets\Weather\04n.png</PackagePath>
+      <Modified>2017-12-10T08:18:51.837</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sterg_000\documents\visual studio 2017\Projects\MyWeatherApp\MyWeatherApp\bin\x86\Release\ilc\Assets\Weather\09d.png">
+      <PackagePath>Assets\Weather\09d.png</PackagePath>
+      <Modified>2017-12-10T08:18:52.022</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sterg_000\documents\visual studio 2017\Projects\MyWeatherApp\MyWeatherApp\bin\x86\Release\ilc\Assets\Weather\09n.png">
+      <PackagePath>Assets\Weather\09n.png</PackagePath>
+      <Modified>2017-12-10T08:18:51.859</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sterg_000\documents\visual studio 2017\Projects\MyWeatherApp\MyWeatherApp\bin\x86\Release\ilc\Assets\Weather\10d.png">
+      <PackagePath>Assets\Weather\10d.png</PackagePath>
+      <Modified>2017-12-10T08:18:52.006</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sterg_000\documents\visual studio 2017\Projects\MyWeatherApp\MyWeatherApp\bin\x86\Release\ilc\Assets\Weather\10n.png">
+      <PackagePath>Assets\Weather\10n.png</PackagePath>
+      <Modified>2017-12-10T08:18:51.891</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sterg_000\documents\visual studio 2017\Projects\MyWeatherApp\MyWeatherApp\bin\x86\Release\ilc\Assets\Weather\11d.png">
+      <PackagePath>Assets\Weather\11d.png</PackagePath>
+      <Modified>2017-12-10T08:18:51.674</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sterg_000\documents\visual studio 2017\Projects\MyWeatherApp\MyWeatherApp\bin\x86\Release\ilc\Assets\Weather\11n.png">
+      <PackagePath>Assets\Weather\11n.png</PackagePath>
+      <Modified>2017-12-10T08:18:51.875</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sterg_000\documents\visual studio 2017\Projects\MyWeatherApp\MyWeatherApp\bin\x86\Release\ilc\Assets\Weather\13d.png">
+      <PackagePath>Assets\Weather\13d.png</PackagePath>
+      <Modified>2017-12-10T08:18:51.975</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sterg_000\documents\visual studio 2017\Projects\MyWeatherApp\MyWeatherApp\bin\x86\Release\ilc\Assets\Weather\13n.png">
+      <PackagePath>Assets\Weather\13n.png</PackagePath>
+      <Modified>2017-12-10T08:18:51.906</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sterg_000\documents\visual studio 2017\Projects\MyWeatherApp\MyWeatherApp\bin\x86\Release\ilc\Assets\Weather\50d.png">
+      <PackagePath>Assets\Weather\50d.png</PackagePath>
+      <Modified>2017-12-10T08:18:51.960</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sterg_000\documents\visual studio 2017\Projects\MyWeatherApp\MyWeatherApp\bin\x86\Release\ilc\Assets\Weather\50n.png">
+      <PackagePath>Assets\Weather\50n.png</PackagePath>
+      <Modified>2017-12-10T08:18:51.937</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sterg_000\documents\visual studio 2017\Projects\MyWeatherApp\MyWeatherApp\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-08-17T16:23:35.527</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sterg_000\documents\visual studio 2017\Projects\MyWeatherApp\MyWeatherApp\bin\x86\Release\ilc\clrcompression.dll">
+      <PackagePath>clrcompression.dll</PackagePath>
+      <Modified>2016-06-13T18:51:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sterg_000\documents\visual studio 2017\Projects\MyWeatherApp\MyWeatherApp\bin\x86\Release\ilc\MyWeatherApp.dll">
+      <PackagePath>MyWeatherApp.dll</PackagePath>
+      <Modified>2017-12-10T11:47:49.764</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sterg_000\documents\visual studio 2017\Projects\MyWeatherApp\MyWeatherApp\bin\x86\Release\ilc\MyWeatherApp.exe">
+      <PackagePath>MyWeatherApp.exe</PackagePath>
+      <Modified>2017-12-10T11:47:51.613</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sterg_000\documents\visual studio 2017\Projects\MyWeatherApp\MyWeatherApp\bin\x86\Release\ilc\MyWeatherApp.pdb">
+      <PackagePath>MyWeatherApp.pdb</PackagePath>
+      <Modified>2017-12-10T11:47:51.497</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sterg_000\documents\visual studio 2017\Projects\MyWeatherApp\MyWeatherApp\bin\x86\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-10T11:44:26.673</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\">
+      <Name>Microsoft.NET.Native.Framework.1.3</Name>
+      <Version>1.3.24201.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.3, MinVersion = 1.3.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\.\arm\ret\Native\Microsoft.NET.Native.Framework.1.3.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\">
+      <Name>Microsoft.NET.Native.Framework.1.3</Name>
+      <Version>1.3.24201.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.3, MinVersion = 1.3.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\.\x64\ret\Native\Microsoft.NET.Native.Framework.1.3.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\">
+      <Name>Microsoft.NET.Native.Framework.1.3</Name>
+      <Version>1.3.24201.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.3, MinVersion = 1.3.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\.\x86\ret\Native\Microsoft.NET.Native.Framework.1.3.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\">
+      <Name>Microsoft.NET.Native.Runtime.1.4</Name>
+      <Version>1.4.24201.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.4, MinVersion = 1.4.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\.\AppX\ARM\Microsoft.NET.Native.Runtime.1.4.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\">
+      <Name>Microsoft.NET.Native.Runtime.1.4</Name>
+      <Version>1.4.24201.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.4, MinVersion = 1.4.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\.\AppX\x64\Microsoft.NET.Native.Runtime.1.4.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\">
+      <Name>Microsoft.NET.Native.Runtime.1.4</Name>
+      <Version>1.4.24201.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.4, MinVersion = 1.4.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\.\AppX\x86\Microsoft.NET.Native.Runtime.1.4.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.24123.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.24123.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.24123.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.24123.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.24123.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.24123.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

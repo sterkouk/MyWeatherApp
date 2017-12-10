@@ -1,0 +1,3 @@
+"/t:MyWeatherApp.Assets.Models.FutureWeather+RootObject1,MyWeatherApp,json"
+"/t:MyWeatherApp.Assets.Models.RootObject,MyWeatherApp,json"
+"/t:MyWeatherApp.Models.FutureWeatherByCity+RootObject2,MyWeatherApp,json"
