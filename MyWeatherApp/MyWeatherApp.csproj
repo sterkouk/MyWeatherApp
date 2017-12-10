@@ -118,7 +118,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Assets\greek_cities.txt" />
+    <Content Include="Assets\StoreLogo.png" />
     <Content Include="Assets\SplashScreen.png" />
+    <Content Include="Assets\LockScreenLogo.png" />
+    <Content Include="Assets\Square150x150Logo.png" />
     <Content Include="Assets\Weather\01d.png" />
     <Content Include="Assets\Weather\01n.png" />
     <Content Include="Assets\Weather\02d.png" />
@@ -137,15 +140,13 @@
     <Content Include="Assets\Weather\13n.png" />
     <Content Include="Assets\Weather\50d.png" />
     <Content Include="Assets\Weather\50n.png" />
-    <Content Include="Assets\LockScreenLogo.png" />
-    <Content Include="Assets\Square150x150Logo.png" />
     <Content Include="Properties\Default.rd.xml" />
     <Content Include="Assets\LockScreenLogo_1.scale-200.png" />
     <Content Include="Assets\SplashScreen_1.scale-200.png" />
     <Content Include="Assets\Square150x150Logo_1.scale-200.png" />
     <Content Include="Assets\Square44x44Logo.png" />
     <Content Include="Assets\Square44x44Logo.targetsize-24_altform-unplated.png" />
-    <Content Include="Assets\StoreLogo.png" />
+    <Content Include="Assets\StoreLogo_1.png" />
     <Content Include="Assets\Wide310x150Logo.scale-200.png" />
   </ItemGroup>
   <ItemGroup>
@@ -167,6 +168,7 @@
       <Version>5.2.3</Version>
     </PackageReference>
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
     <VisualStudioVersion>14.0</VisualStudioVersion>
   </PropertyGroup>
